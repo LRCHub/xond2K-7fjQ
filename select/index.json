@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Sequence",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2026-02-11T07:40:31.235887Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heartland - Pure Country/Main Title Sequence",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Heartland_-_Pure_Country_Main_Title_Sequence_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Séquence con",
+      "artist": "Malik Djoudi",
+      "has_synced": true,
+      "path": "select/02_Séquence_con_Malik_Djoudi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Out of Sequence",
+      "artist": "Drab Majesty",
+      "has_synced": true,
+      "path": "select/03_Out_of_Sequence_Drab_Majesty.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dream Sequence",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/04_Dream_Sequence_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dream Sequence",
+      "artist": "Arab Strap",
+      "has_synced": true,
+      "path": "select/05_Dream_Sequence_Arab_Strap.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Signal 30 (Title Sequence Remix)",
+      "artist": "Public Service Broadcasting",
+      "has_synced": false,
+      "path": "select/06_Signal_30_(Title_Sequence_Remix)_Public_Service_Broadcasting.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sequence Start",
+      "artist": "Sungazer",
+      "has_synced": false,
+      "path": "select/07_Sequence_Start_Sungazer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sequence",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_Sequence_IZ_ONE.txt"
+    }
+  ]
+}
