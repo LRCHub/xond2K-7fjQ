@@ -1,0 +1,85 @@
+# IZ*ONE – Sequence
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ay 너의 맘이 닿지 않아
+내게 만은 솔직했음 해
+Oh No No No I'm worn out! Oh Oh
+머리가 어지러워
+내가 바라던 그 마음이 다
+다를까 봐 좀 겁이나
+I'm a bit old school
+모른 척했지만 난 거기 답이 있어
+선을 넘어 문을 열어봐
+That's the sequence Um
+진짜를 보여줘 내게 말해줘 네
+진심을
+Hey Yeah Yeah Yeah
+That's the sequence Ah
+가끔은 알아도 듣고 싶은 게 있어
+You know Oh
+Hey Yeah Yeah Yeah
+나의 나의 마음을 Take it or
+leave it
+집중해 더 내 맘이 더 시끄럽게
+Yeah
+나의 모든 걸 Take it or leave it
+진심을 다 해 너를 다 보여줘 매일
+That's the sequence
+Um 조금만 더 확신을 줘
+나도 네가 너무 궁금해
+So you tell me now
+보기보다는 좀 순진해 모르는 게
+좀 많은데
+나의 마음과 넌 다를까 봐 좀
+겁이나
+I'm a bit old school
+아닌 척했지만 난 기대하고 있어
+너의 다음 걸음이 중요한 걸
+모른 척했지만 난
+거기 답이 있어 선을 넘어 문을
+열어봐
+That's the sequence Um
+진짜를 보여줘 내게 말해줘 네
+진심을
+Hey Yeah Yeah Yeah
+That's the sequence Ah
+가끔은 알아도 듣고 싶은 게 있어
+You know Oh
+Hey Yeah Yeah Yeah
+나의 나의 마음을 Take it or
+leave it
+집중해 더 내 맘이 더 시끄럽게
+Yeah
+나의 모든 걸 Take it or leave it
+진심을 다 해 너를 다 보여줘 매일
+That's the sequence
+눈치 보지 마 Right? Right
+위험해도 Alright? Right
+너의 뒤를 따라 갈
+모든 준비가 다 됐어 난
+눈치 보지 마 Right? Right
+위험해도 Alright? Right
+너의 다음 Track에 닿기 전에
+꼭 Tell me your mind
+That's the sequence Um
+진짜를 보여줘 내게 말해줘 네
+진심을
+Hey Yeah Yeah Yeah
+That's the sequence Ah
+가끔은 알아도 듣고 싶은 게 있어
+You know Oh
+Hey Yeah Yeah Yeah
+나의 나의 마음을 Take it or
+leave it
+집중해 더 내 맘이 더 시끄럽게
+Yeah
+나의 모든 걸 Take it or leave it
+진심을 다 해 너를 다 보여줘 매일
+내 얘기 속에 Day by day 번지네
+날 간지럽게 해
+너의 모든 걸 들려줘
+진심을 다 해 너를 다 보여줘 매일
+That's the sequence
+```
